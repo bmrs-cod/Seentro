@@ -1,7 +1,7 @@
 # Seentro
 
 ## Integrantes
-Bruno Marcelo Real
+Bruno Marcelo Real       RM: 569785
 
 ## Problema
 Com o fim do TV Time, faltou uma forma simples de registrar filmes e
