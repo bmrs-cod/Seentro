@@ -26,9 +26,8 @@ TMDB (The Movie Database)
 - Página dedicada para a lista pessoal
 
 ## Uso de IA
-Utilizada como apoio na especificação (Spec-Driven Development) e na
-escrita do código, seguindo os padrões ensinados em aula. As decisões
-de escopo, design e arquitetura foram tomadas pelo aluno.
+Utilizada como apoio na estrutura do código seguindo a metodologia do SpecDriven Development.
+As decisões de escopo, design e arquitetura foram tomadas pelo aluno.
 
 ## Como rodar o projeto
 1. Clone o repositório
